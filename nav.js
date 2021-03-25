@@ -1,10 +1,17 @@
 'use strict'
 
-let nav = document.getElementById('nav')
 let x = document.getElementById('x')
+let nav = document.getElementById('nav')
+let sub_nav = document.getElementById("sub_nav")
 
 x.addEventListener('click', function() {
     console.log("CLICKAD PÅ!!!");
+    nav.classList.toggle('open')
+})
+
+sub_nav.addEventListener('click', function() {
+    console.log("CLICKADE PÅ Sub_nav!!!");
+    
     nav.classList.toggle('open')
 })
 
