@@ -1,0 +1,9 @@
+ABSOLUTE DEADLINE week 20!
+
+Målgrup: Tonåringar / ungdommar
+Idée: Informerande sida om hur man kan bli bättre på ett FPS spel (Valorant)
+
+Önskat betygg = C eller högre
+
+- Måste ha med javascript integrerat till sidan. Måste dokumenteras väl. Till exempel skulle några javascript kunna vara effekt skript som får sidan att värka mer levande.
+- Kanske skulle man kunna lägga till en QnA del där användare skulle kunna fråga frågor och få svar på dem.
