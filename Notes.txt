@@ -8,10 +8,20 @@ Idée: Informerande sida om hur man kan bli bättre på ett FPS spel (Valorant)
 - Måste ha med javascript integrerat till sidan. Måste dokumenteras väl. Till exempel skulle några javascript kunna vara effekt skript som får sidan att värka mer levande.
 - Kanske skulle man kunna lägga till en QnA del där användare skulle kunna fråga frågor och få svar på dem.
 
-Day 3
+Jag tar så klart insperation från spelet självt samt Riotgame's egna sida.
+Andra Idéer får jag från mig själv eller kompisar.
+
+Idées;
+Make a side scrollable page for the maps. For example make a landing page out of the first map then make it so when u press one of the buttons on either side, left or right u then move to the next map in decending order starting with Acent for example. The right button for the next mapp in que and left on for the previous one or last one. 
+
+
+29th Mars 2021
+Finished making the basis/groundwork for the sliding (javascript based) nav-bar, added the main and sub items to it then made em into links to lastly orgonize the main items into differnt folders like one for maps one for weaponds and such.
+
+Day 1
 ...
 
-Day 
+Day 2
 ...
 
 Summery of week 1
