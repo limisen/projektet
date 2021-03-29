@@ -5,15 +5,19 @@
     border: 0;
 }
 
-h1{
+.h1{
     margin: 0;
 }
 
-body {
-    margin: 0;
-    padding: 0;
+/* ----- Gridarea ---- */
+.content{
+    grid-area: ;
 }
 
+/* ----- Gridarea ---- */
+
+
+/* ------ Side Navbar ----- */
 .slide {
     background-color: crimson;
     
@@ -54,4 +58,8 @@ body {
 .open  {
     left: 0;
     box-shadow: 5px 0 5px 0 rgba(50, 50, 50, .4);
+    
 }
+/* ----- Side Navbar ----- */
+
+/* ----- Content ---- */
