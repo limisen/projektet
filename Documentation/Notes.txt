@@ -18,6 +18,12 @@ Make a side scrollable page for the maps. For example make a landing page out of
 29th Mars 2021
 Finished making the basis/groundwork for the sliding (javascript based) nav-bar, added the main and sub items to it then made em into links to lastly orgonize the main items into differnt folders like one for maps one for weaponds and such.
 
+30th Mars 2021
+Läste på om hur man kan få till dropdown menus with onhover på sidan "w3schools.com"
+länk: "https://www.w3schools.com/howto/howto_css_dropdown.asp"
+
+...
+
 Day 1
 ...
 
