@@ -21,20 +21,15 @@
 /* ------ Side Navbar ----- */
 .slide {
     background-color: crimson;
-    
     width: 300px;
     height: 100vh;
-    
     position: fixed;
     left: -300px;
-
     transition: .3s;
 }
-
 .content{
     margin-left: 60px;
 }
-
 .slide span {
     background-color: crimson;
     border-top-right-radius: 10px;
