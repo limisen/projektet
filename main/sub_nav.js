@@ -1,3 +1,5 @@
+'use strict'
+
 let sub_nav = document.getElementById("sub_nav")
 let sub_maps = document.getElementById('sub_maps')
 
