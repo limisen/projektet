@@ -22,34 +22,25 @@
 .slide {
     background-color: crimson;
     width: 300px;
-    height: 100vh;
+    height: 80vh;
     position: fixed;
     left: -300px;
     transition: .3s;
-}
-.content{
+    
+  }
+  .content{
     margin-left: 60px;
-}
-
-.sub_maps_hide {
-  display: none;
-}
-.agents {
-  display: none;
-}
-
-.weaponds {
-  display: none;
-}
-
-.slide span {
+  }
+  
+  .slide span {
     background-color: crimson;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
-
+    overflow-y: auto;
+    
     cursor: pointer;
 
     height: 50px;
@@ -67,14 +58,22 @@
   left: 0;
   box-shadow: 5px 0 5px 0 rgba(50, 50, 50, .4);
 }
+
+.menu {
+  width: 200px;
+  height: 150px;
+  overflow-y: auto;
+}
+
 /* ----- Side Navbar ----- */
 
 
 /* ----- maps-nav-dropdown ----- */
-.maps {
+.sub_maps_hide {
   display: none;
 }
 /* ----- maps-nav-dropdown ----- */
+
 
 /* ----- Characters ----- */
 .agents {
@@ -83,9 +82,11 @@
 /* ----- Characters ----- */
 
 /* ----- Weaponds ----- */
-.weaponds__contents{
+
+.weaponds {
   display: none;
 }
+
 /* ----- Weaponds ----- */
 
 
