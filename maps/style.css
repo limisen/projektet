@@ -1,3 +1,7 @@
+.h1 {
+    display: flexbox;
+    justify-content: center;
+}
 
 /* ------ Side Navbar ----- */
 .slide {

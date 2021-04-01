@@ -19,10 +19,14 @@ Make a side scrollable page for the maps. For example make a landing page out of
 Finished making the basis/groundwork for the sliding (javascript based) nav-bar, added the main and sub items to it then made em into links to lastly orgonize the main items into differnt folders like one for maps one for weaponds and such.
 
 30th Mars 2021
-Läste på om hur man kan få till dropdown menus with onhover på sidan "w3schools.com"
+Läste på om hur man kan få till dropdown menus with onhover på sidan "w3schools.com". Samt försökte få till det så det funkade.
 länk: "https://www.w3schools.com/howto/howto_css_dropdown.asp"
 
-...
+1st April 2021
+letaded efter loga till min fav-icon för hemsidan.
+Justerade länkarna så att de faktiskt leder till dit de ska. 
+samt la till det en css regel för navbar'en så att varje elemtent inte syns från början. Nu syns bara de översta rubrikerna (Intro, maps, agents, weaponds, m.m). Skapade även html för varje karaktär.
+Just nu så är det något galet fel med maps sidan. Den får ett konstigt namn när man hoverar ovanför den, sedan så finns inget på sidan även om det nu står i html koden att det faktiskt ska göra det. ???
 
 Day 1
 ...

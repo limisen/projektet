@@ -10,11 +10,11 @@
 }
 
 /* ----- Gridarea ---- */
-.content{
+/*.content{
     grid-area: 
     ""
     ;
-}
+}*/
 
 /* ----- Gridarea ---- */
 
@@ -33,6 +33,17 @@
 
 .content{
     margin-left: 60px;
+}
+
+.sub_maps_hide {
+  display: none;
+}
+.agents {
+  display: none;
+}
+
+.weaponds {
+  display: none;
 }
 
 .slide span {
