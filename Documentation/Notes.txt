@@ -14,6 +14,11 @@ Andra Idéer får jag från mig själv eller kompisar.
 Idées;
 Make a side scrollable page for the maps. For example make a landing page out of the first map then make it so when u press one of the buttons on either side, left or right u then move to the next map in decending order starting with Acent for example. The right button for the next mapp in que and left on for the previous one or last one. 
 
+https://www.youtube.com/watch?v=zh-8QBazLos&t=115s
+Omen = Fred
+
+Notes:
+Remember to give precise and accurate infor when explaining the differnt characters abilites and weaponds. Dont forget the uniqe interactions with the differnt abilites.
 
 29th Mars 2021
 Finished making the basis/groundwork for the sliding (javascript based) nav-bar, added the main and sub items to it then made em into links to lastly orgonize the main items into differnt folders like one for maps one for weaponds and such.
@@ -27,6 +32,10 @@ letaded efter loga till min fav-icon för hemsidan.
 Justerade länkarna så att de faktiskt leder till dit de ska. 
 samt la till det en css regel för navbar'en så att varje elemtent inte syns från början. Nu syns bara de översta rubrikerna (Intro, maps, agents, weaponds, m.m). Skapade även html för varje karaktär.
 Just nu så är det något galet fel med maps sidan. Den får ett konstigt namn när man hoverar ovanför den, sedan så finns inget på sidan även om det nu står i html koden att det faktiskt ska göra det. ???
+
+12th April 2021
+Under lektionstiden så arbetade jag med att implementera en nav-bar utan javascript på maps sidan sedan efter det så arbetade jag med att notera Idéer om vad som ska vara i inehållet på sidan.
+Sist dokumenterade jag vad som jag gjorde. 
 
 Day 1
 ...

@@ -22,14 +22,14 @@
 .slide {
     background-color: crimson;
     width: 300px;
-    height: 80vh;
+    height: 100vh;
     position: fixed;
     left: -300px;
     transition: .3s;
     
   }
   .content{
-    margin-left: 60px;
+    margin-left: 20px;
   }
   
   .slide span {
