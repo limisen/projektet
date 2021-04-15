@@ -4,7 +4,6 @@ let x = document.getElementById('x')
 let nav = document.getElementById('nav')
 
 x.addEventListener('click', function () {
-    console.log("CLICKAD PÅ!!!");
     nav.classList.toggle('open')
     span.contains('>'); span.cotent.toggle('<')
 })

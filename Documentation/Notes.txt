@@ -37,14 +37,5 @@ Just nu så är det något galet fel med maps sidan. Den får ett konstigt namn 
 Under lektionstiden så arbetade jag med att implementera en nav-bar utan javascript på maps sidan sedan efter det så arbetade jag med att notera Idéer om vad som ska vara i inehållet på sidan.
 Sist dokumenterade jag vad som jag gjorde. 
 
-Day 1
-...
-
-Day 2
-...
-
-Summery of week 1
-...
-
-Summery of week 2
-...
+Day 15 April 2021
+Under de sista 50 min av lektionstiden så hitade jag bilder för de olika mapparna som finns i spelet (jag tog dem från Riotgame's egna sida). Sedan har jag ändrat så det ändast finns en sida med både javascript och top-navbar. Jag flyttade js-navbaren till höger också samt började styla den lite mera. Jag slutade arbeta med projektet vid mattelektionens start.

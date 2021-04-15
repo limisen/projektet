@@ -47,13 +47,13 @@
     height: 100vh;
     
     position: fixed;
-    left: -300px;
+    right: -300px;
 
     transition: .3s;
 }
 
 .content{
-    margin-left: 60px;
+    margin-right: 60px;
 }
 
 .slide span {
@@ -78,7 +78,7 @@
 }
 
 .open  {
-    left: 0;
+    right: 0;
     box-shadow: 5px 0 5px 0 rgba(50, 50, 50, .4);
     
 }
