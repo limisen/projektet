@@ -45,4 +45,12 @@ Vaknade mycket tidigt (6:00) så jag gick ned och började arbeta.
 Jag lade till text för att förklare mer om vad "Peakers_advantage" är.
 lade till så att när man hoverar över bilden "Peakers_advantage" så blir den 1.5 störe.
 Jag gjorde en validering på både html och css koden vilket gav mig att css inte hade några fel medans html ändast hade en handfull fel. De felen är pga att dom elemten inte är klara än.
-Ändrade så alla de olika sidorna använder samma css doc (förutom weaponds).  
+Ändrade så alla de olika sidorna använder samma css doc.  
+
+Under lektionstiden så gjorde jag så att för den länk du är på så highlightas den rubriken. Alltså är du på huvud-sidan så har "Home" en crimson backgrund medans om du är på "maps" så är den rubriken's backgrunds crimson medans "home" inte längre är crimson utan grund backgrunds-färgen #333.
+Jag unificierade även side-navbaren så att den är mestadels densamma på alla de sidorna jag vill ha den på.
+Den är inte längre en stor hög av "spagethi code" nu är den faktiskt läsbar och förstålig skulle jag säga.
+Gamla koden ligger kvar dock som en kommentar.
+Jag försökte även fixa lite med länkarna till de olika sidorna men det värkar som om det ändast orsakade problem...
+"https://limisen.github.io/projektet/" och under länkar verkar inte funka... ???
+får använda fil-sökvägen istället.

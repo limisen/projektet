@@ -4,6 +4,7 @@
     padding: 0;
     border: 0;
     background-color: #222;
+    min-width: 280px;
 }
 
 .h1{
@@ -63,6 +64,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     overflow-y: auto;
 
     cursor: pointer;
@@ -76,6 +78,14 @@
     position: absolute;
     left: -50px;
 }
+
+.slide :active{
+  background-color: #333;
+}
+.slide . {
+
+}
+
 .open  {
   right: 0;
 }
@@ -119,11 +129,18 @@
 
 
 /* ----- Content ---- */
+.old-code{
+  display: none;
+}
+
 img.Peakers_advantage{
-  justify-self: center;
+  min-width: 327px;
+  min-height: 180px;
+  max-width: 1vh;
+  max-height: vh;
 }
 img.Peakers_advantage:hover {
-  transform: scale(1.8);
+  transform: scale(1);
   transition: .5s;
 }
 /* ----- Content ---- */
