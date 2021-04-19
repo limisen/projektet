@@ -5,7 +5,7 @@ let nav = document.getElementById('nav')
 
 x.addEventListener('click', function () {
     nav.classList.toggle('open')
-    span.contains('>'); span.cotent.toggle('<')
+    span.contains('<'); span.cotent.toggle('>')
 })
 
 document.addEventListener('keydown', function (event) {

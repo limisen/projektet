@@ -39,3 +39,10 @@ Sist dokumenterade jag vad som jag gjorde.
 
 Day 15 April 2021
 Under de sista 50 min av lektionstiden så hitade jag bilder för de olika mapparna som finns i spelet (jag tog dem från Riotgame's egna sida). Sedan har jag ändrat så det ändast finns en sida med både javascript och top-navbar. Jag flyttade js-navbaren till höger också samt började styla den lite mera. Jag slutade arbeta med projektet vid mattelektionens start.
+
+Day 19 April 2021
+Vaknade mycket tidigt (6:00) så jag gick ned och började arbeta.
+Jag lade till text för att förklare mer om vad "Peakers_advantage" är.
+lade till så att när man hoverar över bilden "Peakers_advantage" så blir den 1.5 störe.
+Jag gjorde en validering på både html och css koden vilket gav mig att css inte hade några fel medans html ändast hade en handfull fel. De felen är pga att dom elemten inte är klara än.
+Ändrade så alla de olika sidorna använder samma css doc (förutom weaponds).  
