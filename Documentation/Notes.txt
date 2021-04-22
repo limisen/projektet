@@ -54,3 +54,7 @@ Gamla koden ligger kvar dock som en kommentar.
 Jag försökte även fixa lite med länkarna till de olika sidorna men det värkar som om det ändast orsakade problem...
 "https://limisen.github.io/projektet/" och under länkar verkar inte funka... ???
 får använda fil-sökvägen istället.
+
+Day 22 April 2021
+Jobbade med Maps sidan och fick till en img slideshow, hittede hur man gjorde på https://www.w3schools.com/howto/howto_js_slideshow.asp. html,css och en js-script file behövdes.
+Sedan modiferade jag koden såklar så att den passade mitt ändamål, lade till en backgrundsfärg så att man enklare ser bilderna. Allt gjordes under lektionstiden
