@@ -117,14 +117,20 @@
 /* ----- Characters ----- */
 
 /* ----- Weaponds ----- */
-.weaponds {
-  display: none;
+.Weaponds-galleri {
+  display: grid;
+  position: relative;
+}
+
+img.all-weaponds {
+  position: absolute;
+  justify-self: center;  
+  max-width: 100%;
 }
 /* ----- Weaponds ----- */
 
 /* ----- Maps page ---- */
 .images_backgound {
-  border: rgba(0,0,0,0.8) 100% 100% 100% ;
   background-color: rgba(220, 220, 220, 0.5);
 }
 

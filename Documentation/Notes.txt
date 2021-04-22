@@ -18,6 +18,7 @@ https://www.youtube.com/watch?v=zh-8QBazLos&t=115s
 Omen = Fred
 
 Notes:
+Most of the time when i was working on the site and differnt pages i used live server to get to the pages. I didnt use the github page too often.
 Remember to give precise and accurate infor when explaining the differnt characters abilites and weaponds. Dont forget the uniqe interactions with the differnt abilites.
 
 29th Mars 2021
@@ -61,4 +62,9 @@ Sedan modiferade jag koden såklar så att den passade mitt ändamål, lade till
 After lesson time:
 I tried to change all the html files to be named "index.html" and see if that helped to make the github-page site work.
 Didnt work as well as i thought it would changed it back to each site having a differnt name except for the main page that is still named index.html
-Tested if making the paths to each site the full URL and that worked ...
+Tested if making the paths to each site the full URL and that worked somewhat well.
+Best way where to do it so each path to each site had the path going from the root folder to the desierd file, and this time with THE RIGHT NAMES, no wrong characters or misspelling.
+then it worked like a charm!
+I then worked with the weaponds page and made it so it now actually displays the image and i tried centering it but had no luck.
+
+Day ..
