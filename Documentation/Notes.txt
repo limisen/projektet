@@ -60,3 +60,5 @@ Jobbade med Maps sidan och fick till en img slideshow, hittede hur man gjorde p�
 Sedan modiferade jag koden s책klar s책 att den passade mitt 채ndam책l, lade till en backgrundsf채rg s책 att man enklare ser bilderna. Allt gjordes under lektionstiden
 After lesson time:
 I tried to change all the html files to be named "index.html" and see if that helped to make the github-page site work.
+Didnt work as well as i thought it would changed it back to each site having a differnt name except for the main page that is still named index.html
+Tested if making the paths to each site the full URL and that worked ...
