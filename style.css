@@ -208,7 +208,9 @@ img.Peakers_advantage{
   max-height: vh;
 }
 img.Peakers_advantage:hover {
-  transform: scale(1);
+  transform: scale(2);
+  display: grid;
+  justify-content: center;
   transition: .5s;
 }
 /* ----- Content ---- */
