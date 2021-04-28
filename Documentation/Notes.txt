@@ -67,4 +67,5 @@ Best way where to do it so each path to each site had the path going from the ro
 then it worked like a charm!
 I then worked with the weaponds page and made it so it now actually displays the image and i tried centering it but had no luck.
 
-Day ..
+Day 28 April 2021
+Took some pics of stuff i needed. Acent, split, astra and such
