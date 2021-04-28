@@ -20,6 +20,7 @@ Omen = Fred
 Notes:
 Most of the time when i was working on the site and differnt pages i used live server to get to the pages. I didnt use the github page too often.
 Remember to give precise and accurate infor when explaining the differnt characters abilites and weaponds. Dont forget the uniqe interactions with the differnt abilites.
+Take screenshots of each character in select screen ingame.
 
 29th Mars 2021
 Finished making the basis/groundwork for the sliding (javascript based) nav-bar, added the main and sub items to it then made em into links to lastly orgonize the main items into differnt folders like one for maps one for weaponds and such.
@@ -67,5 +68,12 @@ Best way where to do it so each path to each site had the path going from the ro
 then it worked like a charm!
 I then worked with the weaponds page and made it so it now actually displays the image and i tried centering it but had no luck.
 
+Day april 26 2021
+During the end of the english class I Added some forgotten characters (omen, killjoy and raze). Found and deleted a missplaced comma.
+Under webb-lektionstiden så kollade jag upp mer om hur man skulle kunna detecta om en användare har Js enabled eller ej.
+https://stackoverflow.com/questions/121203/how-to-detect-if-javascript-is-disabled kolla denna sidan för en diskution om hur det ska göras.
+Took a favicon from https://iconscout.com/icon/valorant-3251602 
+<a href="https://iconscout.com/icons/valorant" target="_blank">Valorant Icon</a> by <a href="https://iconscout.com/contributors/hellomille">Aireen Ch</a> on <a href="https://iconscout.com">Iconscout</a>
+
 Day 28 April 2021
-Took some pics of stuff i needed. Acent, split, astra and such
+Took some pics of stuff i needed. Acent, split, astra and the new map breeze. Took em in-game / client whit snippit tool/print screen.

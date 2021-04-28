@@ -46,7 +46,6 @@
     z-index: 10;
     background-color: crimson;
     top: 79px;
-    /*top: 30px;*/
     width: 300px;
     height: 100vh;
     position: fixed;
@@ -120,7 +119,9 @@
 .Weaponds-galleri {
   display: grid;
   position: relative;
+  justify-self: center;
 }
+
 
 img.all-weaponds {
   position: absolute;
@@ -205,11 +206,14 @@ img.Peakers_advantage{
   min-width: 327px;
   min-height: 180px;
   max-width: 1vh;
-  max-height: vh;
+  max-height: 1vh;
 }
 img.Peakers_advantage:hover {
-  transform: scale(1);
-  transition: .5s;
+  margin-top: -104px;
+  margin-left: 501px;
+  transform: scale(3);
+  justify-content: center;
+  transition: .6s;
 }
 /* ----- Content ---- */
 
