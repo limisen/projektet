@@ -77,3 +77,9 @@ Took a favicon from https://iconscout.com/icon/valorant-3251602
 
 Day 28 April 2021
 Took some pics of stuff i needed. Acent, split, astra and the new map breeze. Took em in-game / client whit snippit tool/print screen.
+
+Day 29 April 2021
+During class I worked on implementera the new mapp breeze (I took the image from https://static.wikia.nocookie.net/valorant/images/1/1e/Valorant_Loading_Breeze.png)
+I also added a image to Astra but its quite big and I will have to scale/shrink it somehow.
+
+Took another image, I thought about using as a backgrund-image. Taken from https://wallpaperaccess.com/valorant-4k 
