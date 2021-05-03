@@ -1,15 +1,15 @@
 body {
-    display: grid;
-    margin: 0;
-    padding: 0;
-    border: 0;
-    background-color: #222;
-    background-image: url(pics/3037916.png);
-    min-width: 280px;
+  display: grid;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-color: #222;
+  background-image: url(pics/3037916.png);
+  min-width: 280px;
 }
 
 .h1{
-    margin: 0;
+  margin: 0;
 }
 
 .space {
@@ -154,14 +154,12 @@ body {
 .Weaponds-galleri {
   display: grid;
   position: relative;
-  justify-self: center;
+  margin: 1rem;
+  width: 465.3px;
+  height: 290.3px;
+  transform: scale(0.7);
 }
 
-img.all-weaponds {
-  position: absolute;
-  justify-self: center;  
-  max-width: 100%;
-}
 /* ----- Weaponds ----- */
 
 /* ----- Maps page ---- */
@@ -429,7 +427,7 @@ img.Peakers_advantage:hover {
   margin-top: -104px;
   margin-left: 501px;
   margin-bottom: 104px;
-  transform: scale(3);
+  transform: scale(2);
   justify-content: center;
   transition: 1s;
   animation-play-state: paused;

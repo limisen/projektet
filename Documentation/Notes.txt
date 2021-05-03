@@ -96,3 +96,4 @@ Day 3 May 2021
 Under lektionstiden så arbetade jag med och fixa så alla characters har en bild för att visa dem samt lite med hur de sak scale:a o.s.v. Men det var det jag gjorde under lektionstiden.
 
 Egen tid:
+Centrerade weaponds bilden.
