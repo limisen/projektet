@@ -136,11 +136,16 @@ body {
   display: grid;
   gap: 2px;
   margin-bottom: 10px;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  grid-auto-rows: 80px;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-auto-rows: minmax(140.652px, 1fr);
   grid-auto-flow: dense;
 }
 
+.Agent_img {
+  display: grid;
+  width: 250px;
+  height: 140.652px;
+}
 /* ----- Agents page ----- */
 
 /* ----- Characters ----- */
