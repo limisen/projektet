@@ -96,4 +96,10 @@ Day 3 May 2021
 Under lektionstiden så arbetade jag med och fixa så alla characters har en bild för att visa dem samt lite med hur de sak scale:a o.s.v. Men det var det jag gjorde under lektionstiden.
 
 Egen tid:
-Centrerade weaponds bilden.
+Försökte centrerade weaponds bilden gick inge bra.
+
+Day 6 May 2021
+Under lektionstiden så arbetade jag med att först göra maps preveiw carouselen interaktiv alltså så att när du klickar på en av bilderna så tar den dig till den mappen på maps carousel (den stora!)
+sedan arbetade jag med att få in faktisk text på sidorna. Alltså jag gjorde så mer eller mindre all text är läsbar och synlig. 
+
+Egen tid:

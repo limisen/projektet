@@ -22,93 +22,49 @@
         <a class="none_active" href="m.m/">m.m</a>
     </div>
 
-    <!-- Side nav -->
-    <nav class="slide" id="nav">
-        <span id="x">
-            << /span>
-                <menu>
-                    <ul>
-                        <li>
-                            <a class="none_active" href="https://limisen.github.io/projektet/">Home</a>
-                        </li>
-                        <li>
-                            <a class="none_active" href="../Agents/agents-hub.html">Agents</a>
-                        </li>
-                        <li>
-                            <a class="active" href="../maps/maps-hub.html">Maps</a>
-                        </li>
-                        <ul>
-                            <li>
-                                <a class="none_active" href="">Acent</a>
-                            </li>
-                            <li>
-                                <a class="none_active" href="">Bind</a>
-                            </li>
-                            <li>
-                                <a class="none_active" href="">Haven</a>
-                            </li>
-                            <li>
-                                <a class="none_active" href="">Icebox</a>
-                            </li>
-                            <li>
-                                <a class="none_active" href="">Split</a>
-                            </li>
-                        </ul>
-                        <li>
-                            <a class="none_active" href="../weaponds/weaponds-hub.html">Weaponds</a>
-                        </li>
-                        <li>
-                            <a class="none_active" href="">About me</a>
-                        </li>
-                        <li>
-                            <a class="none_active" href="m.m/">m.m</a>
-                        </li>
-                    </ul>
-                </menu>
-    </nav>
-    <!-- Side nav -->
-
     <!-- Maps image carousel -->
     <div class="images_backgound">
         <div class="slideshow-container">
             <div class="mySlides fade">
                 <div class="numbertext">1 / 6</div>
                 <img src="Acent/Taken my self 3-best.png" style="width:100%">
-                <div class="text">Caption Text</div>
+                <div class="text">Acent</div>
             </div>
             <div class="mySlides fade">
                 <div class="numbertext">2 / 6</div>
                 <img src="Bind\Taken myself.png" style="width:100%">
-                <div class="text">Caption Two</div>
+                <div class="text">Bind</div>
             </div>
             <div class="mySlides fade">
                 <div class="numbertext">3 / 6</div>
                 <img src="haven/Haven B-side Attacker side.png" style="width:100%">
-                <div class="text">Caption Three</div>
+                <div class="text">Haven</div>
             </div>
             <div class="mySlides fade">
                 <div class="numbertext">4 / 6</div>
                 <img src="Icebox/Icebox3.png" style="width:100%">
-                <div class="text">Docks, both long and cramped angles</div>
+                <div class="text"> Icebox -
+                    Docks, both long and cramped angles</div>
             </div>
             <div class="mySlides fade">
                 <div class="numbertext">5 / 6</div>
                 <img src="Split/Split - Loading card.png" style="width:100%">
-                <div class="text">Caption Five</div>
+                <div class="text">Split</div>
             </div>
             <div class="mySlides fade">
                 <div class="numbertext">6 / 6</div>
                 <img src="Breeze/Valorant_Loading_Breeze.png" style="width:100%">
-                <div class="text">Caption Five</div>
+                <div class="text">Breeze</div>
             </div>
-            <!-- 
-                Future maps added like this under each other 
+            <!-- Future maps added like this under each other 
+                ---
                 <div class="mySlides fade">
                     <div class="numbertext">x / y</div>
                     <img src="map/pic-name.png" style="width:100%">
                     <div class="text">Caption Five</div>
                 </div>
-                End-->
+                ---
+            End-->
 
             <!-- Next and previous buttons -->
             <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -123,73 +79,73 @@
         <div class="row__inner">
             <div class="tile">
                 <div class="tile__media">
-                    <img class="tile__img" src="Acent/ascent-featured.png" alt="" />
+                    <img class="tile__img" src="Acent/ascent-featured.png" onclick="currentSlide(1)" />
                 </div>
                 <div class="tile__title">Acent</div>
             </div>
             <div class="tile">
                 <div class="tile__media">
-                    <img class="tile__img" src="Bind/bind-featured.png" alt="" />
+                    <img class="tile__img" src="Bind/bind-featured.png" onclick="currentSlide(2)" />
                 </div>
                 <div class="tile__title">Bind</div>
             </div>
             <div class="tile">
                 <div class="tile__media">
-                    <img class="tile__img" src="haven/haven-featured.png" alt="" />
+                    <img class="tile__img" src="haven/haven-featured.png" onclick="currentSlide(3)" />
                 </div>
                 <div class="tile__title">Haven</div>
             </div>
             <div class="tile">
                 <div class="tile__media">
-                    <img class="tile__img" src="Icebox/Icebox_transparentbg_for_Web.png" alt="" />
+                    <img class="tile__img" src="Icebox/Icebox_transparentbg_for_Web.png" onclick="currentSlide(4)" />
                 </div>
                 <div class="tile__title">Icebox</div>
             </div>
             <div class="tile">
                 <div class="tile__media">
-                    <img class="tile__img" src="Split/split-featured.png" alt="" />
+                    <img class="tile__img" src="Split/split-featured.png" onclick="currentSlide(5)" />
                 </div>
                 <div class="tile__title">Split</div>
             </div>
             <div class="tile">
                 <div class="tile__media">
-                    <img class="tile__img" src="Breeze/Valorant_Loading_Breeze.png" alt="" />
+                    <img class="tile__img" src="Breeze/Valorant_Loading_Breeze.png" onclick="currentSlide(6)" />
                 </div>
                 <div class="tile__title">Breeze</div>
             </div>
             <div class="tile">
                 <div class="tile__media">
-                    <img class="tile__img" src="Acent/ascent-featured.png" alt="" />
+                    <img class="tile__img" src="Acent/ascent-featured.png" onclick="currentSlide(1)" />
                 </div>
                 <div class="tile__title">Acent</div>
             </div>
             <div class="tile">
                 <div class="tile__media">
-                    <img class="tile__img" src="Bind/bind-featured.png" alt="" />
+                    <img class="tile__img" src="Bind/bind-featured.png" onclick="currentSlide(2)" />
                 </div>
                 <div class="tile__title">Bind</div>
             </div>
             <div class="tile">
                 <div class="tile__media">
-                    <img class="tile__img" src="haven/haven-featured.png" alt="" />
+                    <img class="tile__img" src="haven/haven-featured.png" onclick="currentSlide(3)" />
                 </div>
                 <div class="tile__title">Haven</div>
             </div>
             <div class="tile">
                 <div class="tile__media">
-                    <img class="tile__img" src="Icebox/Icebox_transparentbg_for_Web.png" alt="" />
+                    <img class="tile__img" src="Icebox/Icebox_transparentbg_for_Web.png" onclick="currentSlide(4)" />
                 </div>
                 <div class="tile__title">Icebox</div>
             </div>
             <div class="tile">
                 <div class="tile__media">
-                    <img class="tile__img" src="Split/split-featured.png" alt="" />
+                    <img class="tile__img" src="Split/split-featured.png" onclick="currentSlide(5)" />
                 </div>
                 <div class="tile__title">Split</div>
             </div>
             <div class="tile">
                 <div class="tile__media">
-                    <img class="tile__img" src="Breeze/Valorant_Loading_Breeze.png" alt="" />
+                    <img class="tile__img" src="Breeze/Valorant_Loading_Breeze.png" onclick="currentSlide(6)" />
                 </div>
                 <div class="tile__title">Breeze</div>
             </div>
