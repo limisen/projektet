@@ -14,6 +14,14 @@ h1{
   color: #ecf0f1;
 }
 
+.index_text_headline{
+  color: #ecf0f1;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 4rem;
+  margin-left: +1rem;
+  margin-bottom: 0px
+}
+
 p {
   color: #ecf0f1;
   margin: 5px 10px;
@@ -173,12 +181,10 @@ p {
   background-color: rgba(220, 220, 220, 0.5);
 }
 
-* {box-sizing:border-box}
-
 /* Slideshow container */
 .slideshow-container {
   max-width: 100%;
-  transform: scale(0.8);
+  transform: scale(0.7);
   position: relative;
   margin: auto;
   display: flexbox;
@@ -427,6 +433,7 @@ img.Peakers_advantage{
   min-height: 180px;
   max-width: 1vh;
   max-height: 1vh;
+  display: none;
 }
 
 img.Peakers_advantage:hover {
