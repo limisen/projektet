@@ -102,4 +102,16 @@ Day 6 May 2021
 Under lektionstiden så arbetade jag med att först göra maps preveiw carouselen interaktiv alltså så att när du klickar på en av bilderna så tar den dig till den mappen på maps carousel (den stora!)
 sedan arbetade jag med att få in faktisk text på sidorna. Alltså jag gjorde så mer eller mindre all text är läsbar och synlig. 
 
-Egen tid:
+Day 10 May 2021
+Under lektionstiden så arbetade jag med och få weaponds sidan funktionel. Ladde till en dropdown-knapp med alla vapen. Sedan likt maps är planen att göra en carousel till den, så när du klickar på ett av de olika vapnen så tas du till den bilden i stort samt infromation om den...
+
+Använde kod samt info från denna sida: https://www.w3schools.com/howto/howto_js_dropdown.asp 
+
+Började även göra likande till Agents sidan.
+...
+
+
+Day x month 2021
+
+Under ... så arbetade jag med att skriva yttliagare information på min sida.
+Samt så ...

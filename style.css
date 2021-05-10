@@ -32,7 +32,10 @@ p {
   width: 1vh;
   height: 1vh;
 }
-
+.space-noBackground {
+  display: grid;
+  background: none;
+}
 /* ----- Scroll bar ----- */
 /* width */
 ::-webkit-scrollbar {
@@ -160,11 +163,31 @@ p {
   width: 250px;
   height: 140.652px;
 }
+
+.Big-Agents{
+  
+}
+
+.Big-Agents-container {
+  display: grid;
+  justify-self: center;
+  width: 608.4px;
+  height: 387.07px;
+}
 /* ----- Agents page ----- */
 
 /* ----- Characters ----- */
 
 /* ----- Weaponds ----- */
+.Weaponds-dropdown-container > div > ul {
+  display: none;
+}
+
+.Weaponds-dropdown::hower {
+  display: grid;
+  
+}
+
 .Weaponds-galleri {
   display: grid;
   position: relative;
