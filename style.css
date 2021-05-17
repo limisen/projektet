@@ -201,7 +201,8 @@ p {
 
 /* ----- Maps page ---- */
 .images_backgound {
-  background-color: rgba(220, 220, 220, 0.5);
+  background-color: rgba(210, 210, 210, 0.4);
+  z-index: ;
 }
 
 /* Slideshow container */
