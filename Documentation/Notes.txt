@@ -108,10 +108,11 @@ Under lektionstiden så arbetade jag med och få weaponds sidan funktionel. Ladd
 Använde kod samt info från denna sida: https://www.w3schools.com/howto/howto_js_dropdown.asp 
 
 Började även göra likande till Agents sidan.
-...
 
+
+Day 17 April 2021
+Wokerd with agents page trying to make it similar to maps and then when thats done add text to each character.
 
 Day x month 2021
-
 Under ... så arbetade jag med att skriva yttliagare information på min sida.
 Samt så ...

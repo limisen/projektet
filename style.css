@@ -158,10 +158,11 @@ p {
   grid-auto-flow: dense;
 }
 
-.Agent_img {
+.Agent_img{
   display: grid;
   width: 250px;
   height: 140.652px;
+  cursor: pointer;
 }
 
 .Big-Agents{
@@ -202,7 +203,6 @@ p {
 /* ----- Maps page ---- */
 .images_backgound {
   background-color: rgba(210, 210, 210, 0.4);
-  z-index: ;
 }
 
 /* Slideshow container */
