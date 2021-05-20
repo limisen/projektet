@@ -4,7 +4,7 @@ body {
   padding: 0;
   border: 0;
   background-color: #222;
-  background-image: url(pics/3037916.png);
+  /* background-image: url(pics/3037916.png); */
   background-position: center;
   min-width: 280px;
 }
@@ -35,19 +35,19 @@ p {
 }
 .space-noBackground {
   display: grid;
+  height: 20px;
   background: none;
 }
 /* ----- Scroll bar ----- */
 /* width */
 ::-webkit-scrollbar {
-  width: 10px;
+  width: 20px;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
   background: #333;
   border-radius: 30px;
-
 }
 
 /* Handle on hover */
@@ -150,9 +150,11 @@ p {
   display: none;
 }
 /* ----- Agents page ----- */
+
 .Agents {
   display: grid;
   gap: 5px;
+  margin-left: 10px;
   margin-bottom: 10px; 
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   grid-auto-rows: minmax(140.652px, 1fr);
@@ -168,12 +170,29 @@ p {
 
 .Big-Agents{
   display: grid;
+  margin-left: 5px;
   width: 608.4px;
   height: 387.07px;
+  grid-area: img;
+}
+
+.area {
+  grid-template-areas:
+  'img txt'
+  ;
+}
+
+.Big-Agents-txt{
+  grid-area: txt;
+}
+
+.mySlides > .numbertext_Agents{
+  display: none;
 }
 
 .Big-Agents-container {
   display: grid;
+  grid-area: img;
   width: 608.4px;
   height: 387.07px;
 }
@@ -205,6 +224,7 @@ p {
 /* ----- Maps page ---- */
 .images_backgound {
   background-color: rgba(210, 210, 210, 0.4);
+  padding: 0px;
 }
 
 /* Slideshow container */
@@ -273,6 +293,8 @@ p {
 .slideshow-container {
   overflow: hidden;
   width: 100%;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 
 /* Maps preveiw */
@@ -285,7 +307,6 @@ p {
   font-size: 0;
   white-space: nowrap;
   margin: 70.3125px 0;
-  padding-bottom: 10px;
   justify-content: center;
 }
 .row__inner > .tile{

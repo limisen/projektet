@@ -116,7 +116,9 @@ Wokerd with agents page trying to make it similar to maps and then when thats do
 Day 20 May 2021
 Under sista 30min ish så jobbade jag med att fixa till olika saker relaterat till de olika sidorna. 
 T.ex
-- 
+- fel data eller bara att justera ett värde
+
+samt gjorde en grid area till agents där jag kan skriva text bredvid den stora bilden
 
 Day x month 2021
 Under ... så arbetade jag med att skriva yttliagare information på min sida.
