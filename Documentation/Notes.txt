@@ -110,8 +110,13 @@ Använde kod samt info från denna sida: https://www.w3schools.com/howto/howto_j
 Började även göra likande till Agents sidan.
 
 
-Day 17 April 2021
+Day 17 May 2021
 Wokerd with agents page trying to make it similar to maps and then when thats done add text to each character.
+
+Day 20 May 2021
+Under sista 30min ish så jobbade jag med att fixa till olika saker relaterat till de olika sidorna. 
+T.ex
+- 
 
 Day x month 2021
 Under ... så arbetade jag med att skriva yttliagare information på min sida.
