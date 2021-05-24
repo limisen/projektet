@@ -120,6 +120,11 @@ T.ex
 
 samt gjorde en grid area till agents där jag kan skriva text bredvid den stora bilden
 
+Day 24 May 2021
+Lite innan lektionens början sedan under lektionstiden så arbetade jag med att skriva yttliagare information på min sida.
+- Info om mig 
+- ändrade top nav så att den faktiskt använde nav tagen.
+- Försökte centrera texten till big agents så att den placeras bredvid bilden.
+-Lade till en footer behöver bara se till att den faktiskt är på botten av sidan oavsett.
+
 Day x month 2021
-Under ... så arbetade jag med att skriva yttliagare information på min sida.
-Samt så ...

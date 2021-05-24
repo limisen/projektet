@@ -9,6 +9,15 @@ body {
   min-width: 280px;
 }
 
+footer {
+  background-color: #555;
+  color: #ecf0f1;
+  padding: 5px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
 h1{
   margin-left: 10px;
   margin-top: 20px;
@@ -168,22 +177,24 @@ p {
   cursor: pointer;
 }
 
-.Big-Agents{
+.area {
   display: grid;
+  grid-template-columns: 1fr 2fr; 
+  grid-template-areas:
+  'img txt'
+  ;
+}
+.Big-Agents{
   margin-left: 5px;
   width: 608.4px;
   height: 387.07px;
   grid-area: img;
 }
 
-.area {
-  grid-template-areas:
-  'img txt'
-  ;
-}
-
 .Big-Agents-txt{
   grid-area: txt;
+  justify-content: left;
+  grid-template-columns: 2,-1;
 }
 
 .mySlides > .numbertext_Agents{
@@ -480,7 +491,7 @@ img.Peakers_advantage{
   min-height: 180px;
   max-width: 1vh;
   max-height: 1vh;
-  display: none;
+  display: ;
 }
 
 img.Peakers_advantage:hover {
