@@ -3,7 +3,7 @@
 /* When the user clicks on the button,
 toggle between hiding and showing the dropdown content */
 function myFunction() {
-    document.getElementById("weaponds-dropdown").classList.toggle("show");
+    document.getElementById("weapons-dropdown").classList.toggle("show");
 }
 
 // Close the dropdown menu if the user clicks outside of it
@@ -22,7 +22,7 @@ window.onclick = function (event) {
 
 
 /*
-let x = document.getElementById('Weaponds-dropdown-container')
+let x = document.getElementById('Weapons-dropdown-container')
 let nav = document.getElementById('nav')
 
 x.addEventListener('click', function () {

@@ -148,5 +148,19 @@ Lite innan lektionens början sedan under lektionstiden så arbetade jag med att
 From a little past 7 till around 9. I worked on
 Making the markdown/read-me -file and also ofcoures styling it so it lookes nice!
 
+When I got to school and class started I began work on bits and peices here and there like for exemple
+- Fixing the corner color of the scrollbar.
+- Fixing the long misspelled weaponds -> weapons or weapon 
+- Also added some info on the *About me page*S
+
+---
+## Diray End
+<br>
+
+Code Explenation
+===
+
+...
+
 End
-======
+===

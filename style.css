@@ -64,6 +64,10 @@ p {
   background: #555;
 }
 
+::-webkit-scrollbar-corner {
+  color: #333;
+}
+
 /* ----- Scroll bar ----- */
 
 /* ----- Top nav ----- */
@@ -211,26 +215,26 @@ p {
 
 /* ----- Characters ----- */
 
-/* ----- Weaponds ----- */
-.Weaponds-dropdown-container > div > ul {
+/* ----- Weapons ----- */
+.Weapons-dropdown-container > div > ul {
   display: none;
 }
 
-.Weaponds-dropdown::hower {
+.Weapons-dropdown::hower {
   display: grid;
   
 }
 
-.Weaponds-galleri {
+.Weapons-galleri {
   display: grid;
   position: relative;
   margin: 1rem;
   width: 465.3px;
   height: 290.3px;
-  transform: scale(0.7);
+  object-fit: scale-down;
 }
 
-/* ----- Weaponds ----- */
+/* ----- Weapons ----- */
 
 /* ----- Maps page ---- */
 .images_backgound {
@@ -504,6 +508,13 @@ img.Peakers_advantage:hover {
   animation-play-state: paused;
 }
 /* ----- Peakers_advantage ---- */
+
+/* ----- About me page ---- */
+.About-me-text{
+  margin: 5px;
+  padding-top: 10px;
+}
+/* ----- About me page ---- */
 
 /* ----- Tablet/smaller devices ---- */
 
