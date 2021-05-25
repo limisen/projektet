@@ -4,15 +4,15 @@ Webb 1 projekt: Valorant Guide
 This is the documentation and explenation of my code regarding my websidte/project.
 
 I have been keepoing a diary for each day of work where I noted down what I had been doing for that day and this is how that went;
-#Diary
+## Diary
 
 Jag tar så klart insperation från spelet självt samt Riotgame's egna sida.
-Andra Idéer får jag från mig själv, kompisar eller olika sidor jag besöker under arbetets gång.
+Andra Idéer får jag från mig själv, kompisar eller olika sidor jag besöket under arbetets gång.
 
-Idées;
+Idée for maps page;
 Make a side scrollable page for the maps. For example make a landing page out of the first map then make it so when u press one of the buttons on either side, left or right u then move to the next map in decending order starting with Acent for example. The right button for the next mapp in que and left on for the previous one or last one. 
 
-https://www.youtube.com/watch?v=zh-8QBazLos&t=115s
+[![Video where it is mentiond that Omen's real name is Fred](https://www.youtube.com/watch?v=zh-8QBazLos&t=115s)
 Omen = Fred
 
 Notes:
