@@ -28,7 +28,6 @@ h1{
   color: #ecf0f1;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 4rem;
-  margin-left: +1rem;
   margin-bottom: 0px
 }
 
@@ -198,7 +197,6 @@ p {
 .Big-Agents-txt{
   grid-area: txt;
   justify-content: left;
-  grid-template-columns: 2,-1;
 }
 
 .mySlides > .numbertext_Agents{
@@ -248,7 +246,7 @@ p {
   transform: scale(0.7);
   position: relative;
   margin: auto;
-  display: flexbox;
+  display: grid;
   justify-content: center;
 }
 
@@ -356,7 +354,7 @@ p {
   position: absolute;
   top: 50%;
   left: 50%;
-  display: #000;
+  color: #000;
 }
 .tile__details:after {
   margin-top: -25px;
@@ -437,7 +435,7 @@ p {
   position: absolute;
   top: 50%;
   left: 50%;
-  display: #000;
+  color: #000;
 }
 .tile__details:after {
   margin-top: -25px;
@@ -495,7 +493,7 @@ img.Peakers_advantage{
   min-height: 180px;
   max-width: 1vh;
   max-height: 1vh;
-  display: ;
+  display: grid;
 }
 
 img.Peakers_advantage:hover {

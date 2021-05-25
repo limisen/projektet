@@ -14,7 +14,7 @@ Andra Idéer får jag från mig själv, kompisar eller olika sidor jag besöket 
 ----
 ## Idées
 Make a side scrollable page for the maps. For example make a landing page out of the first map then make it so when u press one of the buttons on either side, left or right u then move to the next map in decending order starting with Acent for example. The right button for the next mapp in que and left on for the previous one or last one.
- 
+
 ----
 ## Notes
 [Omen's real name is Fred](https://www.youtube.com/watch?v=zh-8QBazLos&t=115s)
@@ -151,7 +151,67 @@ Making the markdown/read-me -file and also ofcoures styling it so it lookes nice
 When I got to school and class started I began work on bits and peices here and there like for exemple
 - Fixing the corner color of the scrollbar.
 - Fixing the long misspelled weaponds -> weapons or weapon 
-- Also added some info on the *About me page*S
+- Also added some info on the *About me page*
+<br>
+During my free time I worked more on my site. This time i validated the different html-files and the css file. Then began correcting them.
+
+
+#### Errors
+##### Css
+201	.Big-Agents-txt	endast 0 kan vara en unit. Du måste ange en enhet efter ditt tal : 2,-1 <br>
+*Changed to simply not have the tag containing the faulty values.*
+<br>
+223 Okänt pseudoelement eller pseudoklass ::hower [hower]
+<br>
+251	.slideshow-container Värdefel : display flexbox är inte ett display-värde : flexbox <br>
+*Changed "display: flexbox -> display: grid*
+<br>
+359	.tile__details:after, .tile__details:before	Värdefel : display #000 är inte ett display-värde : #000 <br>
+*Changed it so instead of using "display" it now uses the "color"-tag*
+<br>
+440	.tile__details:after, .tile__details:before	Värdefel : display #000 är inte ett display-värde : #000 <br>
+*Same as the error above display: #000 -> color: #000*
+<br>
+498	img.Peakers_advantage	Värdefel : display Parsningsfel <br>
+*Changed so path no longer contains any spaces instead it uses _*
+
+----
+##### HTML
+Bad value favicon for attribute type on element link: Subtype missing.
+From line 9, column 5; to line 9, column 61 <br>
+*Dont know what to change it to, since it is working and i don't know the specific standard for it...*
+
+Error: Bad character < after <. Probable cause: Unescaped <. Try escaping it as "&lt.;".
+At line 26, column 23<br>
+*Changed from using the character < to instead use "&lt"*
+
+Error: Attribute alt not allowed on element "a" at this point. <br>
+From line 54, column 146; to line 54, column 207
+
+---
+#### Allowed attributes for tag "a";
+- Global attributes
+- href — Address of the hyperlink
+- target — Browsing context for hyperlink navigation
+- download — Whether to download the resource instead of navigating to it, and its filename if so
+- ping — URLs to ping
+- rel — Relationship between the location in the document containing the hyperlink and the destination resource
+- hreflang — Language of the linked resource
+- type — Hint for the type of the referenced resource
+- referrerpolicy — Referrer policy for fetches initiated by the element
+Error: Attribute alt not allowed on element a at this point.
+
+---
+#### Further errors (HTML)
+
+#### Dont use alt on a a-link:
+- From line 54, column 264; to line 54, column 319 <br>
+- From line 55, column 38; to line 55, column 97 <br>
+
+From line 58, column 5; to line 58, column 102 <br> (Don't use a path containing spaces as the name of the pic!)
+
+#### Changed to
+
 
 ---
 ## Diray End
