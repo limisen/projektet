@@ -20,7 +20,7 @@ Make a side scrollable page for the maps. For example make a landing page out of
 [Omen's real name is Fred](https://www.youtube.com/watch?v=zh-8QBazLos&t=115s)
 <br>Omen = Fred
 
-Most of the time when i was working on the site and differnt pages i used live server to get to the pages. I didnt use the github page too often.
+Most of the time when I was working on the site and differnt pages i used live server to get to the pages. I didnt use the github page too often.
 Remember to give precise and accurate infor when explaining the differnt characters abilites and weaponds. Dont forget the uniqe interactions with the differnt abilites.
 Take screenshots of each character in select screen ingame.
 ## Day summary 
@@ -31,7 +31,8 @@ Finished making the basis/groundwork for the sliding (javascript based) nav-bar,
 ---
 ### 30th Mars 2021
 Läste på om hur man kan få till dropdown menus med css ändelsen "::onhover" och annat på sidan "w3schools.com". Samt försökte få till det så den funkade. <br>
-länk: "https://www.w3schools.com/howto/howto_css_dropdown.asp"
+länk:
+[howto_css_dropdown](https://www.w3schools.com/howto/howto_css_dropdown.asp)
 
 ---
 ### 1st April 2021
@@ -69,39 +70,44 @@ får använda fil-sökvägen istället.
 
 ---
 ### Day 22 April 2021
-Jobbade med Maps sidan och fick till en img slideshow, hittede hur man gjorde på https://www.w3schools.com/howto/howto_js_slideshow.asp. html,css och en js-script file behövdes.
+Jobbade med Maps sidan och fick till en img slideshow, hittade hur man gjorde på [howto_js_slideshow](https://www.w3schools.com/howto/howto_js_slideshow.asp). html, css och en js-script file behövdes.
 Sedan modiferade jag koden såklar så att den passade mitt ändamål, lade till en backgrundsfärg så att man enklare ser bilderna. Allt gjordes under lektionstiden.
 
 After lesson time:
 I tried to change all the html files to be named "index.html" and see if that helped to make the github-page site work.
-Didnt work as well as i thought it would changed it back to each site having a differnt name except for the main page that is still named index.html
+Didnt work as well as I thought it would changed it back to each site having a differnt name except for the main page that is still named index.html
 Tested if making the paths to each site the full URL and that worked somewhat well.
 Best way where to do it so each path to each site had the path going from the root folder to the desierd file, and this time with THE RIGHT NAMES, no wrong characters or misspelling.
 then it worked like a charm!
-I then worked with the weaponds page and made it so it now actually displays the image and i tried centering it but had no luck.
+I then worked with the weaponds page and made it so it now actually displays the image and I tried centering it but had no luck.
 
 ---
 ### Day april 26 2021
-During the end of the english class I Added some forgotten characters (omen, killjoy and raze). Found and deleted a missplaced comma.
-Under webb-lektionstiden så kollade jag upp mer om hur man skulle kunna detecta om en användare har Js enabled eller ej.
-https://stackoverflow.com/questions/121203/how-to-detect-if-javascript-is-disabled kolla denna sidan för en diskution om hur det ska göras.
-Tog en favicon från https://iconscout.com/icon/valorant-3251602 
-<a href="https://iconscout.com/icons/valorant" target="_blank">Valorant Icon</a> by <a href="https://iconscout.com/contributors/hellomille">Aireen Ch</a> on <a href="https://iconscout.com">Iconscout</a>
+During the end of the english class I Added some forgotten characters (omen, killjoy and raze). Found and deleted a missplaced comma. <br>
+Under webb-lektionstiden så kollade jag upp mer om hur man skulle kunna detecta om en användare har Js på eller ej.<br> [how-to-detect-if-js-is-disabled](https://stackoverflow.com/questions/121203/how-to-detect-if-javascript-is-disabled) <-- kolla denna sidan för en diskution om hur det ska göras. <br>
+Tog en favicon från; https://iconscout.com/icon/valorant-3251602 <br>
+<a href="https://iconscout.com/icons/valorant" target="_blank">Valorant Icon</a>
+by <a href="https://iconscout.com/contributors/hellomille">Aireen Ch</a>
+on <a href="https://iconscout.com">Iconscout</a>
+
+---
 ### Day 28 April 2021
-Took some pics of stuff i needed. Acent, split, astra and the new map breeze. Took em in-game / client whit snippit tool/print screen.
+Took some pics of stuff I needed. Acent, split, astra and the new map breeze. Took em in-game / client whit snippit tool/print screen.
+
+---
 ### Day 29 April 2021
-During class I worked on implementera the new mapp breeze (I took the image from https://static.wikia.nocookie.net/valorant/images/1/1e/Valorant_Loading_Breeze.png)
+During class I worked on implementing the new mapp breeze. I took the image from [Breeze-loadingscreen](https://static.wikia.nocookie.net/valorant/images/1/1e/Valorant_Loading_Breeze.png). <br>
 I also added a image to Astra but its quite big and I will have to scale/shrink it somehow.
 
-Took another image, I thought about using as a backgrund-image. Taken from https://wallpaperaccess.com/valorant-4k 
+Took another image, I tought about using as a backgrund-image. Taken from [Wallpaperaccess - Valorant-4k](https://wallpaperaccess.com/valorant-4k) 
 
-Late at night with a friend (Nicke) I took pics of each mapp and Agent and their psynopsis.
+Later at night (with a friend Nicke) I took further pics of each mapp and the agents along with their psynopsis.
 
 ---
 ### Day 2 May 2021
-I worked with Fixing some issues i had with differing saved instances of a couple of files due to me working on my home pc and not pushing those files and then pulling them down from the master point (Stylesheet and maps-hub.html).
-Then i implemented the preveiw slideshow of the maps beneath the main carousel in maps-hub.html, I also made it so that the carousel also centers on the screen no mater the resolution. I also added the map breeze to both the carousel and preveiw if it wasnt already there.
-I also custom made the scrollbar with help form (https://www.w3schools.com/howto/howto_css_custom_scrollbar.asp).
+I worked with Fixing some issues I had with differing saved instances of a couple of files due to me working on my home pc and not pushing those files and then pulling them down from the master point (Stylesheet and maps-hub.html).
+Then I implemented the preveiw slideshow of the maps beneath the main carousel in maps-hub.html, I also made it so that the carousel also centers on the screen no mater the resolution. I also added the map breeze to both the carousel and preveiw if it wasnt already there.
+I also custom made the scrollbar with help form [w3schools - howto_css_custom_scrollbar](https://www.w3schools.com/howto/howto_css_custom_scrollbar.asp).
 
 ---
 ### Day 3 May 2021
@@ -119,7 +125,7 @@ sedan arbetade jag med att få in faktisk text på sidorna. Alltså jag gjorde s
 ### Day 10 May 2021
 Under lektionstiden så arbetade jag med och få weaponds sidan funktionel. Ladde till en dropdown-knapp med alla vapen. Sedan likt maps är planen att göra en carousel till den, så när du klickar på ett av de olika vapnen så tas du till den bilden i stort samt infromation om den.
 
-Använde kod samt info från denna sida: https://www.w3schools.com/howto/howto_js_dropdown.asp 
+Använde kod samt info från denna sida: [w3schools - js_dropdown](https://www.w3schools.com/howto/howto_js_dropdown.asp) 
 
 Började även göra likande till Agents sidan.
 
@@ -157,6 +163,7 @@ During my free time I worked more on my site. This time i validated the differen
 
 
 #### Errors
+---
 ##### Css
 201	.Big-Agents-txt	endast 0 kan vara en unit. Du måste ange en enhet efter ditt tal : 2,-1 <br>
 *Changed to simply not have the tag containing the faulty values.*
@@ -179,7 +186,7 @@ During my free time I worked more on my site. This time i validated the differen
 ##### HTML
 Bad value favicon for attribute type on element link: Subtype missing.
 From line 9, column 5; to line 9, column 61 <br>
-*Dont know what to change it to, since it is working and i don't know the specific standard for it...*
+*Dont know what to change it to, since it is working and I don't know the specific standard for it...*
 
 Error: Bad character < after <. Probable cause: Unescaped <. Try escaping it as "&lt.;".
 At line 26, column 23<br>
@@ -210,17 +217,36 @@ Error: Attribute alt not allowed on element a at this point.
 
 From line 58, column 5; to line 58, column 102 <br> (Don't use a path containing spaces as the name of the pic!)
 
-#### Changed to
+---
+### Day 27 May 2021
+During class today I worked on adding some information on the different sites, like the index one and maps-hub. And ofcourse I made a new entry in the diary.
+Last thing I did was to quickly go over and type something about the planing of the project under its own header down below.
 
 
 ---
 ## Diray End
 <br>
 
+---
+Planing
+===
+Thinking back I constantly re-worked my planing and the previous plan since I did as you can see more or less what I felt like doing for each day.
+
+Since I have been working alone that hasn't had much impact but if i where working in a team of any size bigger than I have now, I can see the more careful much more important part a well thought out plan can have. Ofcourse it wouldn't be perfect so from time to time the plan would then have to be re-worked, during that time the team could go over how things are going and tailor the re-worked plan so everything goes along more smothly than this project had <br>:D
+
+---
+
+
 Code Explenation
 ===
 
 ...
+
+Legality and copy-rights
+===
+
+...
+===
 
 End
 ===

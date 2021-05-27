@@ -24,6 +24,16 @@ h1{
   color: #ecf0f1;
 }
 
+h2 {
+  margin-left: 10px;
+  margin-top: 20px;
+  color: #ecf0f1;
+}
+
+.maps-info-h2 {
+  margin-bottom: 0;
+}
+
 .index_text_headline{
   color: #ecf0f1;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -319,9 +329,11 @@ p {
   transition: 450ms transform;
   font-size: 0;
   white-space: nowrap;
-  margin: 70.3125px 0;
+  margin: 60.3125px 0;
+  margin-bottom: 55.3125px;
   justify-content: center;
 }
+
 .row__inner > .tile{
   margin-left: 10px;
 }
@@ -404,13 +416,7 @@ p {
   overflow: hidden;
   width: 100%;
 }
-.row__inner {
-  transition: 450ms transform;
-  font-size: 0;
-  white-space: nowrap;
-  margin: 70.3125px 0;
-  padding-bottom: 10px;
-}
+
 .tile {
   position: relative;
   display: inline-block;
