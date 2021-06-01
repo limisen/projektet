@@ -236,6 +236,8 @@ I Started with trying to find how the laws regarding this work in Sweden and the
 
 I also worked with some discussion about web hosting services and very shortly things about code, like things to keep in mind when using other peoples code.
 
+last thing I did was to change the paths to _About me/The project_ to the link instead of the path. Both in the top nav and footer. 
+
 ---
 ### Day .. .... 2021
 
