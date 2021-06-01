@@ -5,8 +5,7 @@ This is the documentation and explenation of my code regarding my project/websit
 I have been keeping a diary for each day of work where I noted down what I had been doing for that day. <br>This is how that went;
 <be>
 
-Diary
-=====
+---
 ## Insperation
 Jag tar så klart insperation från spelet självt samt Riotgame's egna sida.
 Andra Idéer får jag från mig själv, kompisar eller olika sidor jag besöket under arbetets gång.
@@ -20,10 +19,10 @@ Make a side scrollable page for the maps. For example make a landing page out of
 [Omen's real name is Fred](https://www.youtube.com/watch?v=zh-8QBazLos&t=115s)
 <br>Omen = Fred
 
-Most of the time when I was working on the site and differnt pages i used live server to get to the pages. I didnt use the github page too often.
+Most of the time when I was working on the site and differnt pages I used live server to get to the pages. I didnt use the github page too often.
 Remember to give precise and accurate infor when explaining the differnt characters abilites and weaponds. Dont forget the uniqe interactions with the differnt abilites.
 Take screenshots of each character in select screen ingame.
-## Day summary 
+## Day summary / Diary
 ---
 ### 29th Mars 2021
 Finished making the basis/groundwork for the sliding (javascript based) nav-bar, added the main and sub items to it then made em into links to lastly orgonize the main items into differnt folders like one for maps one for weaponds and such.
@@ -159,27 +158,28 @@ When I got to school and class started I began work on bits and peices here and 
 - Fixing the long misspelled weaponds -> weapons or weapon 
 - Also added some info on the *About me page*
 <br>
-During my free time I worked more on my site. This time i validated the different html-files and the css file. Then began correcting them.
+
+During my free time I worked more on my site. This time I validated the different html-files and the css file. Then began correcting them. (see below)
 
 
 #### Errors
 ---
 ##### Css
-201	.Big-Agents-txt	endast 0 kan vara en unit. Du måste ange en enhet efter ditt tal : 2,-1 <br>
+201	.Big-Agents-txt	only 0 can be a unit. You have to assign a unite of measurment after your value: 2,-1 <br>
 *Changed to simply not have the tag containing the faulty values.*
-<br>
-223 Okänt pseudoelement eller pseudoklass ::hower [hower]
-<br>
-251	.slideshow-container Värdefel : display flexbox är inte ett display-värde : flexbox <br>
-*Changed "display: flexbox -> display: grid*
-<br>
-359	.tile__details:after, .tile__details:before	Värdefel : display #000 är inte ett display-värde : #000 <br>
+<br> <br>
+223 Unknow pseudoelement or pseudoclass ::hower [hower]
+<br> <br>
+251	.slideshow-container Value-Error : display flexbox Is not a display-Value : flexbox <br>
+*Changed display: flexbox -> display: grid*
+<br> <br>
+359	.tile__details:after, .tile__details:before	Value-Error : display #000 isn't a display-value : #000 <br>
 *Changed it so instead of using "display" it now uses the "color"-tag*
-<br>
-440	.tile__details:after, .tile__details:before	Värdefel : display #000 är inte ett display-värde : #000 <br>
+<br> <br>
+440	.tile__details:after, .tile__details:before	Value-Error : display #000 is not a display-Value : #000 <br>
 *Same as the error above display: #000 -> color: #000*
-<br>
-498	img.Peakers_advantage	Värdefel : display Parsningsfel <br>
+<br> <br>
+498	img.Peakers_advantage Value-Error : display Pars Error <br>
 *Changed so path no longer contains any spaces instead it uses _*
 
 ----
@@ -222,31 +222,77 @@ From line 58, column 5; to line 58, column 102 <br> (Don't use a path containing
 During class today I worked on adding some information on the different sites, like the index one and maps-hub. And ofcourse I made a new entry in the diary.
 Last thing I did was to quickly go over and type something about the planing of the project under its own header down below.
 
+During the next lesson time I spent working on error correction, ie I fixed a spelling mistake in the top nav adjusted the footer and tried to make some css rules to have the site feel nicer. Ended up not doing that but fixed the footer and spelling mistake tho!
 
 ---
-## Diray End
-<br>
+### Day 1 June 2021
+Today I worked with some of the other requierd things that should be in this documentation. For example the legalities and copy rights. 
+
+I Started with trying to find how the laws regarding this work in Sweden and then with how Riot wantes their IP and other properties used by fans (link under _legalities and copyrights_)
+
+- I Added a short line on the _About me/The project_ site saying that the project is not sponsored or in anyway endorsed by Riot Games.
+
+- I also added to anywhere that sayd "_About me_" to say "_About me/The project_"
+
+I also worked with some discussion about web hosting services and very shortly things about code, like things to keep in mind when using other peoples code.
 
 ---
+### Day .. .... 2021
+
+---
+## Diary End 
+<br> <br>
+
+
 Planing
 ===
 Thinking back I constantly re-worked my planing and the previous plan since I did as you can see more or less what I felt like doing for each day.
 
-Since I have been working alone that hasn't had much impact but if i where working in a team of any size bigger than I have now, I can see the more careful much more important part a well thought out plan can have. Ofcourse it wouldn't be perfect so from time to time the plan would then have to be re-worked, during that time the team could go over how things are going and tailor the re-worked plan so everything goes along more smothly than this project had <br>:D
+Since I have been working alone that hasn't had much impact but if I where working in a team of any size bigger than I have now, I can see the more careful much more important part a well thought out plan can have. Ofcourse it wouldn't be perfect so from time to time the plan would then have to be re-worked, during that time the team could go over how things are going and tailor the re-worked plan so everything goes along more smothly than this project had <br>:D
 
 ---
 
-
-Code Explenation
+Character handeling (UTF-8)
 ===
+Since the site is mostly in english there can only be faults in the characters/sentancing when using specialcharacters due to them posibly not being in the default charactzder mapping for the user. Though since some things in my code may have been using swedish characters like åäö it may break certain things if UTF-8 character handeling is not stated. This is one of the reasons I wanted the site to be in english but also because I am simply more comfortable with english due to me personally having encounterd and interacting using it.
+<br> 
 
-...
-
+---
 Legality and copy-rights
 ===
+Riot games themselves say on this link [Legal Jibber Jabber](https://www.riotgames.com/en/legal) that if I want to use their IP of any kind I _have to_ follow some rules, 7 of them to be precise. <br>
+Rule 5 says that sadly I may not use __ANY__ of their trademarkeds or logos. So better change that real quick...
+Among the laws and different restrictions I have to follow are ... but ... since/for ... .
+But I also feel like ...
 
-...
+Other sensetive data that can regard legaleties could be passwords which ofcourse should be encrypted and otherwise secured so no one but the two parties, the one owning the acount and the provider can se/use the password/sensetive data.
+
+---
+
+Hosting service
 ===
+As you already know I use Github and their _Github-pages_ feature to host this project. Though regarding hosting services Github ofcourse isn't the only one and when chosing a hosting service there are a few things to keep in mind. Starting with;
+- Make sure it is secure and atleast trustworthy
+examples on such sites could be; [One.com](https://www.one.com/) or [Amazon](https://aws.amazon.com/websites/). Both of these sites lock sensetive data behind accounts protected with password/codes.
+<br>
+The opposite of these could be sites with no regard to security as in they have no encryption or other way of securing sensetive data like the passcodes for the one trying to use the service. They simply allow anyone and everyone. Meaning anyone could probobly access anyones site and mess around with it or even destroy it.
+<br> <br>
+- Cost could also be something to consider when chosing a web hosting service especially if you haven't considerd monetazation and don't have much disposable income from other sources.
+<br> <br>
+- Last thing to consider could be the ability to scale the project and the accessablity to it.
+<br> - Can you expand using the chosen provider?
+<br> - Is it accessible to people? How would they find out about the project, so on and so forth.
 
+---
+
+Code
+===
+First let's dive through this about using a third partys' code. <br>
+When using a third partys' code be extra carefull when putting it into your project and own code since it _may_ be harmful especially when their code gets quite long. So read through it before implementing it and make sure you understand it, at least so much so that you know it won't harm you or your code. Do this because you never trully know what someone else wants to get out of their actions or in this case code. They might try to get access to sensetive data or simply anything really. This is why its best to write your own code.
+
+### Code Explenation
+
+
+---
 End
 ===

@@ -16,6 +16,12 @@ footer {
   left: 0;
   bottom: 0;
   width: 100%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.footer-right > p {
+  justify-content: right;
 }
 
 h1{
@@ -70,7 +76,7 @@ p {
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #555;
+  background: #444;
 }
 
 ::-webkit-scrollbar-corner {
@@ -116,7 +122,7 @@ p {
     top: 79px;
     width: 300px;
     height: 100vh;
-    position: fixed;
+    position: absolute;
     right: -300px;
     transition: .3s;
   }
@@ -253,6 +259,7 @@ p {
 /* Slideshow container */
 .slideshow-container {
   max-width: 100%;
+  max-height: 100%;
   transform: scale(0.7);
   position: relative;
   margin: auto;
@@ -501,7 +508,7 @@ img.Peakers_advantage{
   max-height: 1vh;
   display: grid;
 }
-
+/* 
 img.Peakers_advantage:hover {
   margin-top: -104px;
   margin-left: 501px;
@@ -510,7 +517,7 @@ img.Peakers_advantage:hover {
   justify-content: center;
   transition: 1s;
   animation-play-state: paused;
-}
+} */
 /* ----- Peakers_advantage ---- */
 
 /* ----- About me page ---- */
